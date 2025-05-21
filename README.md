@@ -3,8 +3,8 @@ This is a simple Notes App with user authentication, supporting both email/passw
 
 Login FLow:
 
-![Project Screenshot](./frontend/src/assets/Google.png)
+![Project Screenshot](./client/src/assets/Google.png)
 
 Notes Dashboard:
 
-![Project Screenshot](./frontend/src/assets/Notes.png)
+![Project Screenshot](./client/src/assets/Notes.png)
